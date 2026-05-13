@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+#TODO_STUDENT: Nguyễn Đăng Quang
+
 set -euo pipefail
 
 g++ -std=c++17 -Wall -Wextra -pedantic encrypt.cpp -o encrypt
