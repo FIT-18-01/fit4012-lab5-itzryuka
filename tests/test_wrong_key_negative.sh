@@ -9,7 +9,6 @@ KEY
 PLAINTEXT="wrong key negative test"
 printf "%s\n" "$PLAINTEXT" | ./encrypt >/tmp/aes_encrypt_wrong_key.log
 
-# Wrong key / khóa sai.
 cat > keyfile <<'KEY'
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 KEY

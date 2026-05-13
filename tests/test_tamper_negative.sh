@@ -9,7 +9,6 @@ KEY
 PLAINTEXT="tamper negative test"
 printf "%s\n" "$PLAINTEXT" | ./encrypt >/tmp/aes_encrypt_tamper.log
 
-# Tamper / flip 1 byte in ciphertext.
 python3 - <<'PY'
 from pathlib import Path
 p = Path('message.aes')
