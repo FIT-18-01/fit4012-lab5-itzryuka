@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-
-#TODO_STUDENT: Nguyễn Đăng Quang
-
 set -euo pipefail
 
 make all >/dev/null

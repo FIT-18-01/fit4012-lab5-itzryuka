@@ -1,8 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/hzL_lEw5)
 # FIT4012 - Lab 5: AES-128 Starter Repository
-
-## TODO_STUDENT: Nguyễn Đăng Quang
-
 ## 1. Cấu trúc repo
 
 ```text
